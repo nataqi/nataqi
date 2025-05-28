@@ -1,6 +1,6 @@
 ## About Me
 Hi, I’m Natalia! I’m a recent AI masters graduate. My journey in tech spans traditional algorithms in machine learning, neural networks and NLP. I’m always excited to learn new technologies and collaborate on exciting projects.
-- :seedling: I’m currently exploring **Machine Learning**, **Data Visualization** and **Web development**.
+- :seedling: I’m currently exploring **Machine Learning** and **Data Visualization** 
 - :handshake: I’m looking to collaborate on **open-source projects** and **innovative web applications**.
 - :speech_balloon: Ask me about **Python**, **Machine Learning** and **Artificial Intelligence**
 - :mailbox: How to reach me: [natalianefedova01@gmail.com](natalianefedova01@gmail.com)
